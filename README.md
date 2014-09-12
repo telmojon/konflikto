@@ -1,0 +1,4 @@
+konflikto
+=========
+
+konfliktoa iteko
